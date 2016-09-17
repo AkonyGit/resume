@@ -30,7 +30,7 @@ span {
 }
 
 .label-value{
-    width: 200px;
+    width: 230px;
     vertical-align: top;
 }
 
@@ -169,29 +169,17 @@ progress::-moz-progress-value {
     margin-bottom: 20px;
 }
 
-.weixin{
-    margin-top: 20px;
-    background-color: #e0eaf0;   
-    position: relative;
-    padding-top: 40px;
-    padding-bottom: 40px;
-    text-align: center;
-}
-
-.weixin img{
-    width: 200px;
-}
 
 .left-label {
     display: inline-block;
-    width: 120px;
+    width: 90px;
 }
 
 .portrait {
     margin: 0 auto;
     margin-top:20px;
     margin-bottom: 10px;
-    background-image:url('https://avatars0.githubusercontent.com/u/21081491?v=3&s=460');
+    /*background-image:url('https://avatars0.githubusercontent.com/u/21081491?v=3&s=460');*/
     background-size: 120%;
     background-position:center;
     border-radius:50%;
